@@ -108,6 +108,13 @@ body {
 .nav-pills .nav-link {
 	color: #000
 }
+
+.nav-link.active-tag {
+	background-color: #BEB45A;
+	border-radius: 0;
+	color: #fff;
+}
+
 .item-column {
 	position: relative;
 	margin-bottom: 0 !important;
